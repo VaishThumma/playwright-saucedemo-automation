@@ -1,0 +1,10 @@
+{
+    "UserName":"standard_user", 
+    "password": "secret_sauce",
+    "incorrectPassword": "secret@1",
+    "DesiredProduct1" : "Bike Light",
+    "DesiredProduct2" : "Fleece Jacket",
+    "FirstName": "Test",
+    "LastName": "SauceDemo_User",
+    "Zip" : "81567"
+ }

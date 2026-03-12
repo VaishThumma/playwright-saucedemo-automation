@@ -1,0 +1,22 @@
+{
+  "name": "sauce_demo_portfolio",
+  "version": "1.0.0",
+  "description": "Playwright automation portfolio project for SauceDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:login": "playwright test --project=login-tests",
+    "test:shopping": "playwright test --project=shopping-tests",
+    "report": "playwright show-report",
+    "test:headed": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "Vaish Thumma",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3",
+    "prettier": "^3.8.1"
+  }
+}
