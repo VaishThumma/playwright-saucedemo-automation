@@ -1,3 +1,5 @@
+![Playwright Tests](https://github.com/VaishThumma/Playwright_Ecommerce_Automation/actions/workflows/playwright.yml/badge.svg)
+
 # Playwright SauceDemo Automation Framework
 
 This repository demonstrates a UI automation framework for the SauceDemo e-commerce application using **Playwright and TypeScript**.
