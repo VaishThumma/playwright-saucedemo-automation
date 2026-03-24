@@ -107,7 +107,7 @@ README.md
 
 ---
 
-## Framework Architecture
+# Framework Architecture
 
 The framework is organized into distinct layers for better scalability and maintainability:
 
